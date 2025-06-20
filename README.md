@@ -13,6 +13,7 @@ This Streamlit application provides an interactive dashboard for bioprocess desi
 1. Clone this repository:
    ```
    git clone https://github.com/LilyWesterhoff/Cultured-Meat-Continuous-vs-Batch.git
+   cd Cultured-Meat-Continuous-vs-Batch
    ```
 
 2. Create a virtual environment and install dependencies:
@@ -30,7 +31,10 @@ streamlit run app.py
 ```
 
 The app will be available at http://localhost:8501
-Steps 2-3 can be automatically completed by running the setup shell script: zsh setup_and_run.sh 
+Steps 2-3 can be automatically completed by running the setup shell script: 
+```
+zsh setup_and_run.sh 
+```
 
 ## License
 
