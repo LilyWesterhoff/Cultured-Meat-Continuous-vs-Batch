@@ -31,7 +31,7 @@ streamlit run app.py
 ```
 
 The app will be available at http://localhost:8501
-Steps 2-3 can be automatically completed by running the setup shell script: zsh setup.sh 
+Steps 2-3 can be automatically completed by running the setup shell script: zsh setup_and_run.sh 
 
 ## License
 
