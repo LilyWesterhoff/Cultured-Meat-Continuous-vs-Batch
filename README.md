@@ -12,7 +12,7 @@ This Streamlit application provides an interactive dashboard for bioprocess desi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/bioprocess-design.git
+   git clone https://github.com/LilyWesterhoff/Cultured-Meat-Continuous-vs-Batch.git
    cd bioprocess-design
    ```
 
